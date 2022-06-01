@@ -12,5 +12,5 @@ You need to find a device of each type to fully map the ports.
 Use Windows Device Manager to find the locations.
 Devices used for mapping for type 1 any usb uart device. For type 2:Arduino Nano BLE/IOT/RP.
 
-<img src="https://i.postimg.cc/9MxghzYM/comdev.png" width="50%">
+<img src="https://i.postimg.cc/9X9Vphm9/comdev2.png" width="50%">
 
